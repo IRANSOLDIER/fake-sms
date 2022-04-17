@@ -7,7 +7,7 @@
 # Installation:
         1) git clone https://github.com/IranSoldier/fake-sms
         2) cd fake-sms
-		3) bash run.sh
+3) bash run.sh
 
         
 # Usage:
