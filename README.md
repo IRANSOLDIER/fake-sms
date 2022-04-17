@@ -7,7 +7,7 @@
 # Installation:
         1) git clone https://github.com/IranSoldier/fake-sms
         2) cd fake-sms
-3) bash run.sh
+        3) bash run.sh
 
         
 # Usage:
@@ -15,7 +15,7 @@
      
 # Note:
      Use this script only for Educational Purpose.
-     *) If u get the error like Your number was not provided in the E.164 format so wait for sometime.....
+     If you get the error like Your number was not provided in the E.164 format so wait for sometime.....
         the error is on the server side and will fix soon:)
 		
 	 This script was coded by Machine404
